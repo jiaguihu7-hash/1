@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="pwa-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4f46e5" />
+      <stop offset="100%" stop-color="#4338ca" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="128" fill="url(#pwa-grad)" />
+  <g fill="none" stroke="#ffffff" stroke-width="28" stroke-linecap="round" stroke-linejoin="round" transform="translate(106, 106)">
+    <!-- Speaker Body -->
+    <path d="M75 100 L140 100 L210 50 L210 250 L140 200 L75 200 Z" fill="#ffffff" fill-opacity="0.15" />
+    <path d="M260 110 C275 125, 275 175, 260 190" />
+    <path d="M290 85 C320 115, 320 185, 290 215" />
+  </g>
+</svg>

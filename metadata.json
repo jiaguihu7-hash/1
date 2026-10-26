@@ -1,0 +1,6 @@
+{
+  "name": "WordDictate - 单词听写助手",
+  "description": "支持自定义单词列表粘贴、朗读间隔时间调节、前进后退控制、盲听听写模式与发音设置的单词听写助手。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
